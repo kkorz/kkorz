@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### :rocket: &nbsp;Other Things
-![Total visitor](https://visitor-badge.vercel.app/page/{'kkorz.readme'}?color=blue)
+![Total visitors](https://komarev.com/ghpvc/?username=kkorz&color=blue&label=Total+visitors)
 ![sports](https://img.shields.io/badge/sports-badminton-d170b3)
 ![pc](https://img.shields.io/badge/pc-huawei-c90a2b)
 ![phone](https://img.shields.io/badge/phone-xiaomi-ff6700)
